@@ -15,8 +15,9 @@ dotnet workload list
 
 ## Updates
 
-https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/preview-4
-https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/preview-5
+- <https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/preview-4>
+- <https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/preview-5>
+- Update to .NET9 templates: `dotnet new install Aspire.ProjectTemplates::9.0.0 --force`
 
 ## Aspire - First look
 
